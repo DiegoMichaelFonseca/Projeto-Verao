@@ -159,7 +159,10 @@ span {
     top:750px;
     color: #5b81ec;
     font-family: sans-serif;
-}
+}/* Nava menu acaba aqui */
+
+
+/* primeira section começa aqui */
 
 .perfect h2 {
     width: 287px;
@@ -170,132 +173,152 @@ span {
     top: 46px;
     font-family: sans-serif;
     font-size: 32px;
+    white-space: nowrap;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#bannerfooter {   
-    background:#648cff; 
-    margin: 0px auto 0px auto;  
+.perfect p {    
     position: relative;
-    bottom: 0px;
-    width: 95%;
-    height:400px;
-    padding:30px;
+    margin: 0 auto;
+    color: #b9b9b9;    
+    top: 60px;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+ 
+.usability img {
+    display:block;    
+    position: absolute;     
+    left: 380px;
+    top:1100px;
 }
 
-footer {
-    margin: 0px auto 0px auto;  
-    position: 2000px;
-    bottom: 0px;
-    width: 95%;
-    background:#353854;
-    height:300px;
-    padding:30px;        
+.usability h3 {    
+    color: #000000;    
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    display:block;    
+    position: absolute;     
+    left: 480px;
+    top:1077px;
 }
 
-.spanfooter {
+.usability p {
+    color: #b3b3b3;    
+    font-family: sans-serif;
+    display:block;    
+    position: absolute;     
+    left: 480px;
+    top: 1122px;
+    font-size: 12px;
+    width: 17em; 
+    word-wrap: break-word;
+    line-height: 1.5;
+}
 
+.parallax img {
+    display:block;    
+    position: absolute;     
+    left: 800px;
+    top:1100px;
+}
+
+.parallax h3 {    
+    color: #000000;    
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    display:block;    
+    position: absolute;     
+    left: 900px;
+    top:1077px;
+}
+
+.parallax p {
+    color: #b3b3b3;    
+    font-family: sans-serif;
+    display:block;    
+    position: absolute;     
+    left: 898px;
+    top: 1122px;
+    font-size: 12px;
+    width: 17em; 
+    word-wrap: break-word;
+    line-height: 1.5;
+}
+
+.unlimites img {
+    display:block;    
+    position: absolute;     
+    left: 1200px;
+    top:1100px;
+}
+
+.unlimites h3 {    
+    color: #000000;    
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    display:block;    
+    position: absolute;     
+    left: 1298px;
+    top:1077px;
+}
+
+.unlimites p {
+    color: #b3b3b3;    
+    font-family: sans-serif;
+    display:block;    
+    position: absolute;     
+    left: 1298px;
+    top: 1122px;
+    font-size: 12px;
+    width: 17em; 
+    word-wrap: break-word;
+    line-height: 1.5;
 }
 
 
-.redes {
-    width: 100%;
+.carrossel  h2 {  
+    width: 287px;
+    position: relative;
+    text-align: center;
+    top: 350px;
+    margin: 0 auto;
+    color: #648cff;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 32px;
+    white-space: nowrap;
+
+}
+
+.carrossel p {  
+    position: relative;
+    text-align: center;
+    top: 370px;
+    margin: 0 auto;
+    color: #b9b9b9;    
+    font-family: sans-serif;
+    font-size: 14px;
     text-align: center;
 }
 
-.redes ul li {
-    list-style-type: none;
-    display: inline;
+.c1 {
+    position: relative;
+    text-align: center;
+    top: 410px;
+        
     
 }
-
-.redes li {
+.c2 {
     position: relative;
-    float: left;
-    width: 100px;
-    left: 1200px;	
-	display: inline;
+    left: 400px;
+    top: -220px;
 }
-
-
-@media only screen and (min-width: 320px) and (max-width: 768px) {
-    footer {
-        clear: both;
-        width: 100%;
-    }
-    .redes {
-        width: 50%;
-        float: left;
-    }
-}
-@media only screen and (max-width: 768px) {
-    footer {
-        clear: both;
-        width: 100%;
-        margin-bottom: 1%; 
-         
-
-    }
-    .redes {
-        width: 45%;
-        float: right;
-        margin-right: 1%;
-        text-align: center;
-    }
+.c3 {
+    position: relative;
+    left: 1090px;
+    top: -790px;
 }
