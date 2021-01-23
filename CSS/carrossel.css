@@ -1,0 +1,49 @@
+
+.carrossel {
+    height: 1250px;
+}
+
+.carrossel  h2 {  
+    width: 287px;
+    position: relative;
+    text-align: center;
+    top: 350px;
+    margin: 0 auto;
+    color: #648cff;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 32px;
+    white-space: nowrap;
+
+}
+
+.carrossel p {  
+    position: relative;
+    text-align: center;
+    top: 370px;
+    margin: 0 auto;
+    color: #b9b9b9;    
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.c1 {
+    position: relative;
+    text-align: center;
+    top: 410px;     
+       
+    
+}
+.c2 {
+    position: relative;
+    left: 750px;
+    top: -220px;
+    
+}
+.c3 {
+    position: relative;
+    left: 1450px;
+    top: -790px;
+    ;
+}
