@@ -72,3 +72,17 @@
     left: 1300px;
 }
 
+.sunny-mockup p {       
+    color: black;
+    font-family: sans-serif;
+    font-size: 25px;
+    position: absolute;
+    top: 2855px;
+    left: 1304px;
+    width: 20em;
+    word-wrap: break-word
+
+}
+
+
+
