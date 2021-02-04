@@ -1,0 +1,15 @@
+.rainy-mockup div img {
+    position: absolute;
+    top: 2598px;
+    text-align: center; 
+    left: 1304px;
+    
+}
+
+.rainy-mockup h3 {
+    text-align: center;    
+    margin: 0 auto;
+    color: #648cff;    
+    font-family: sans-serif;
+    font-size: 32px;
+}    

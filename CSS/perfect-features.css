@@ -23,7 +23,7 @@
 .usability img {
     display:block;    
     position: absolute;     
-    left: 790px;
+    left: 680px;
     top:1100px;
 }
 
@@ -34,7 +34,7 @@
     text-align: center;
     display:block;    
     position: absolute;     
-    left: 880px;
+    left: 790px;
     top:1077px;
 }
 
@@ -43,7 +43,7 @@
     font-family: sans-serif;
     display:block;    
     position: absolute;     
-    left: 880px;
+    left: 800px;
     top: 1122px;
     font-size: 12px;
     width: 17em; 
@@ -54,7 +54,7 @@
 .parallax img {
     display:block;    
     position: absolute;     
-    left: 1180px;
+    left: 1105px;
     top:1100px;
 }
 
@@ -65,7 +65,7 @@
     text-align: center;
     display:block;    
     position: absolute;     
-    left: 1280px;
+    left: 1205px;
     top:1077px;
 }
 
@@ -74,7 +74,7 @@
     font-family: sans-serif;
     display:block;    
     position: absolute;     
-    left: 1280px;
+    left: 1205px;
     top: 1122px;
     font-size: 12px;
     width: 17em; 
@@ -85,7 +85,7 @@
 .unlimites img {
     display:block;    
     position: absolute;     
-    left: 1580px;
+    left: 1495px;
     top:1100px;
 }
 
